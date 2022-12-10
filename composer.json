@@ -1,0 +1,17 @@
+{
+    "name": "user/tcpdf_allapitan",
+    "autoload": {
+        "psr-4": {
+            "User\\TcpdfAllapitan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nathaniel Allapitan",
+            "email": "allapitan.nathaniel@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.6"
+    }
+}
